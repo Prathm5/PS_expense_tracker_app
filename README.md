@@ -1,1 +1,3 @@
-# PS_expense_tracker_app
+# expense
+
+A new Flutter project.
